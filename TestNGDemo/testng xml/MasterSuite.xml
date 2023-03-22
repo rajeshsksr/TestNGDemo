@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Master Suite">
+  <suite-files>
+  		<suite-file path="D:\rajesh-workspace\TestNGDemo\testng xml\firstclass.xml"></suite-file>
+  		<suite-file path="D:\rajesh-workspace\TestNGDemo\testng xml\Atrributes.xml"></suite-file>
+  </suite-files>
+</suite> <!-- Suite -->

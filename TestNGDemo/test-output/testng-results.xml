@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T13:38:36 IST" name="Suite" finished-at="2023-02-27T13:39:00 IST" duration-ms="24315">
+    <groups>
+      <group name="regression">
+        <method signature="FirstSetup.launchpage2()[pri:0, instance:testngDemo.FirstSetup@e056f20]" name="launchpage2" class="testngDemo.FirstSetup"/>
+        <method signature="Thirdtestng.homePage()[pri:0, instance:testngDemo.Thirdtestng@4b0b0854]" name="homePage" class="testngDemo.Thirdtestng"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2023-02-27T13:38:36 IST" name="Test" finished-at="2023-02-27T13:39:00 IST" duration-ms="24315">
+      <class name="testngDemo.Secondtestng">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="beforeSuite" finished-at="2023-02-27T13:38:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="beforeTest" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="beforeClass" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="beforeMethod" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="homePage()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="homePage" finished-at="2023-02-27T13:38:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="AfterMethod" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method signature="profileview()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="profileview" finished-at="2023-02-27T13:38:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileview -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="beforeMethod" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="AfterMethod" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:38:36 IST" name="afterClass" finished-at="2023-02-27T13:38:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:39:00 IST" name="afterTest" finished-at="2023-02-27T13:39:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testngDemo.Secondtestng@72a7c7e0]" started-at="2023-02-27T13:39:00 IST" name="afterSuite" finished-at="2023-02-27T13:39:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testngDemo.Secondtestng -->
+      <class name="testngDemo.FirstSetup">
+        <test-method signature="launchpage1()[pri:0, instance:testngDemo.FirstSetup@e056f20]" started-at="2023-02-27T13:38:36 IST" name="launchpage1" finished-at="2023-02-27T13:38:43 IST" duration-ms="7712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchpage1 -->
+        <test-method signature="launchpage2()[pri:0, instance:testngDemo.FirstSetup@e056f20]" started-at="2023-02-27T13:38:43 IST" name="launchpage2" finished-at="2023-02-27T13:39:00 IST" duration-ms="16538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchpage2 -->
+      </class> <!-- testngDemo.FirstSetup -->
+      <class name="testngDemo.Thirdtestng">
+        <test-method signature="homePage()[pri:0, instance:testngDemo.Thirdtestng@4b0b0854]" started-at="2023-02-27T13:39:00 IST" name="homePage" finished-at="2023-02-27T13:39:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:testngDemo.Thirdtestng@4b0b0854]" started-at="2023-02-27T13:39:00 IST" name="signup" finished-at="2023-02-27T13:39:00 IST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'Firstname' is required by @Test on method signup but has not been marked @Optional or defined
+in D:\rajesh-workspace\TestNGDemo\testng xml\firstclass.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'Firstname' is required by @Test on method signup but has not been marked @Optional or defined
+in D:\rajesh-workspace\TestNGDemo\testng xml\firstclass.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:270)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:884)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:740)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:59)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:38)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:791)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1207)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+      </class> <!-- testngDemo.Thirdtestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2023-02-27T13:39:00 IST" name="Suite (0)" finished-at="2023-02-27T13:39:00 IST" duration-ms="25">
+    <groups>
+      <group name="regression">
+        <method signature="Attributesofannotations1.profileview()[pri:0, instance:attributesOfAnnotations.Attributesofannotations1@16ec5519]" name="profileview" class="attributesOfAnnotations.Attributesofannotations1"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2023-02-27T13:39:00 IST" name="Test" finished-at="2023-02-27T13:39:00 IST" duration-ms="25">
+      <class name="attributesOfAnnotations.Attributesofannotations1">
+        <test-method signature="homePage()[pri:-3, instance:attributesOfAnnotations.Attributesofannotations1@16ec5519]" started-at="2023-02-27T13:39:00 IST" name="homePage" finished-at="2023-02-27T13:39:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="login()[pri:-1, instance:attributesOfAnnotations.Attributesofannotations1@16ec5519]" started-at="2023-02-27T13:39:00 IST" name="login" finished-at="2023-02-27T13:39:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="profileview()[pri:0, instance:attributesOfAnnotations.Attributesofannotations1@16ec5519]" started-at="2023-02-27T13:39:00 IST" name="profileview" finished-at="2023-02-27T13:39:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileview -->
+        <test-method signature="signup()[pri:0, instance:attributesOfAnnotations.Attributesofannotations1@16ec5519]" started-at="2023-02-27T13:39:00 IST" name="signup" finished-at="2023-02-27T13:39:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="login1()[pri:3, instance:attributesOfAnnotations.Attributesofannotations1@16ec5519]" started-at="2023-02-27T13:39:00 IST" name="login1" finished-at="2023-02-27T13:39:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+      </class> <!-- attributesOfAnnotations.Attributesofannotations1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2023-02-27T13:39:00 IST" name="Master Suite" finished-at="2023-02-27T13:39:00 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
+</testng-results>
